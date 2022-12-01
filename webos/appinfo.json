@@ -1,0 +1,47 @@
+{
+
+  "id": "com.deltatre.academy",
+
+  "version": "1.0.0",
+
+  "vendor": "Flixflix",
+
+  "type": "web",
+
+  "main": "index.html",
+
+  "title": "Sus",
+
+  "icon": "logo192.png",
+
+  "largeIcon": "logo512.png",
+
+  "bgImage": "hardday.jpg",
+
+  "splashBackground": "hardday.jpg",
+
+  "iconColor": "yellow",
+
+  "transparent": false,
+
+  "visible": true,
+
+  "uiRevision": 2,
+
+  "resolution": "1920x1080",
+
+  "disableBackHistoryAPI": true,
+
+  "class": {
+
+      "hidden": false
+
+  },
+
+  "accessibility": {
+
+      "supportsAudioGuidance": true
+
+  }
+
+}
